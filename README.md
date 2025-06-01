@@ -9,3 +9,7 @@
 
 ### How it works:
 By utilizing the ESP32 and additional components, it is able to gather readings every 2 seconds from the DHT11 sensor and print those collected values onto the 0.96" OLED display.
+
+### A demonstration of the display in action:
+
+![OLED Demo](https://github.com/Ismael-v2/esp32-climate-display/blob/main/oled_demo.jpg?raw=true)
